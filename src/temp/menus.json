@@ -1,0 +1,210 @@
+{
+    "menus":[
+        {
+            "id":"1",
+            "text":"Home",
+            "class":"drop",
+            "link":"./Home",
+            "dropdown": {},
+            "mega_dropdowm": {}
+        },
+        {
+            "id":"2",
+            "text":"portfolio",
+            "class":"drop",
+            "link":"./",
+            "dropdown": [
+                {
+                    "id":2.1,
+                    "text":"portfolio",
+                    "class": "drop",
+                    "link":"./",
+                    "dropdown":{},
+                    "mega_dropdown":{}
+                },
+                {
+                    "id":2.2,
+                    "text":"Single portfolio",
+                    "class": "drop",
+                    "link":"./",
+                    "dropdown":{},
+                    "mega_dropdown":{}
+                }
+        ],
+            "mega_dropdowm": {}
+        },
+        {
+            "id":"3",
+            "text":"Blog",
+            "class":"drop",
+            "link":"./",
+            "dropdown": [
+                {
+                    "id":3.1,
+                    "text":"blog 3 colum",
+                    "class":"drop",
+                    "link":"./",
+                    "dropdowm":{},
+                    "mega_dropdown":{}
+                },
+                {
+                    "id":3.2,
+                    "text":"blog details",
+                    "class":"drop",
+                    "link":"./",
+                    "dropdowm":{},
+                    "mega_dropdown":{}
+                }
+            ],
+            "mega_dropdowm": {}
+        },
+        {
+            "id":4,
+            "text":"Shop",
+            "class":"drop",
+            "link":"./",
+            "dropdowm":{},
+            "mega_dropdown":[
+                {
+                    "id":4.1,
+                    "text":"shop layout",
+                    "class":"mega_title",
+                    "link":"./",
+                    "dropdowm":{},
+                    "mega_dropdown":[
+                        {
+                            "id":4.3,
+                            "text":"default shop",
+                            "class":"mega_title",
+                            "link":"./",
+                            "dropdown":{},
+                            "mega_dropdown":{}
+                        }
+                    ]
+                },
+                {
+                    "id":4.2,
+                    "text":"product details layout",
+                    "class":"mega_title",
+                    "link":"./",
+                    "dropdowm":{},
+                    "mega_dropdown":[{
+                        "id":3.1,
+                        "text":"tab style 1",
+                        "class":"mega_title",
+                        "link":"./",
+                        "dropdowm":{},
+                        "mega_dropdown":{}
+                    }]
+                }
+            ]
+        },
+        {
+            "id":5,
+            "text":"pages",
+            "class":"drop",
+            "link":"./",
+            "dropdowm":[
+                {
+                    "id":5.1,
+                    "text":"about",
+                    "class":"",
+                    "link":"./",
+                    "dropdowm":{},
+                    "mega_dropdown":{}
+                },
+                {
+                    "id":5.2,
+                    "text":"trstimonials",
+                    "class":"",
+                    "link":"./",
+                    "dropdowm":{},
+                    "mega_dropdown":[
+                        {
+                            "id":5.3,
+                            "text":"customer review",
+                            "class":"",
+                            "link":"./",
+                            "dropdowm":{},
+                            "mega_dropdown":{}
+                        }
+                    ]
+                },
+                {
+                    "id":5.4,
+                    "text":"shop",
+                    "class":"",
+                    "link":"./",
+                    "dropdowm":{},
+                    "mega_dropdown":{}
+                },
+                {
+                    "id":5.5,
+                    "text":"shop sidebar",
+                    "class":"",
+                    "link":"./",
+                    "dropdowm":{},
+                    "mega_dropdown":{}
+                },
+                {
+                    "id":5.6,
+                    "text":"product details",
+                    "class":"",
+                    "link":"./",
+                    "dropdowm":{},
+                    "mega_dropdown":{}
+                },
+                {
+                    "id":5.7,
+                    "text":"cart",
+                    "class":"",
+                    "link":"./",
+                    "dropdowm":{},
+                    "mega_dropdown":{}
+                },
+                {
+                    "id":5.8,
+                    "text":"wishlist",
+                    "class":"",
+                    "link":"./",
+                    "dropdowm":{},
+                    "mega_dropdown":{}
+                },
+                {
+                    "id":5.9,
+                    "text":"checkout",
+                    "class":"",
+                    "link":"./",
+                    "dropdowm":{},
+                    "mega_dropdown":{}
+                },
+                {
+                    "id":5.10,
+                    "text":"team",
+                    "class":"",
+                    "link":"./",
+                    "dropdowm":{},
+                    "mega_dropdown":{}
+                },
+                {
+                    "id":5.11,
+                    "text":"login & register",
+                    "class":"",
+                    "link":"./",
+                    "dropdowm":{},
+                    "mega_dropdown":{}
+                }
+            ],
+            "mega_dropdown":{}
+        },
+        {
+            "id":6,
+            "text":"contact",
+            "class":"",
+            "link":"./",
+            "dropdowm":{},
+            "mega_dropdown":{}
+        }
+
+    ]
+}
