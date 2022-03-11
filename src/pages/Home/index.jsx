@@ -1,11 +1,11 @@
 import React from 'react'
-import Header from '../../compornents/partion/Header'
+import Header from '../../compornent/partial/Header'
 
 const Home = () => {
   return (
-    <>
+    <div>
         <Header />
-    </>
+    </div>
   )
 }
 

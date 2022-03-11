@@ -1,9 +1,10 @@
 import React from 'react'
-import logo from '../../asserts/images/logo/logo.png'
+import logo from '../../images/logo/logo.png'
 
 const Header = () => {
   return (
-    <header id="header" class="htc-header header--3 bg__white">
+    <>
+        <header id="header" class="htc-header header--3 bg__white">
             {/* <!-- Start Mainmenu Area --> */}
             <div id="sticky-header-with-topbar" class="mainmenu__area sticky__header">
                 <div class="container">
@@ -11,7 +12,7 @@ const Header = () => {
                         <div class="col-md-2 col-lg-2 col-sm-3 col-xs-3">
                             <div class="logo">
                                 <a href="index.html">
-                                    <img src={logo} alt='logo' />
+                                    <img src={logo} alt="logo" />
                                 </a>
                             </div>
                         </div>
@@ -132,8 +133,9 @@ const Header = () => {
                     <div class="mobile-menu-area"></div>
                 </div>
             </div>
-            {/* // <!-- End Mainmenu Area --> */}
+            {/* <!-- End Mainmenu Area --> */}
         </header>
+    </>
   )
 }
 
