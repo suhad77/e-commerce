@@ -4,7 +4,7 @@
             "id":"1",
             "text":"Home",
             "class":"drop",
-            "link":"./Home",
+            "link":"/",
             "dropdown": {},
             "mega_dropdown": {}
         },
@@ -12,13 +12,13 @@
             "id":"2",
             "text":"portfolio",
             "class":"drop",
-            "link":"./",
+            "link":"/portfolio",
             "dropdown": [
                 {
                     "id":2.1,
                     "text":"portfolio",
                     "class": "drop",
-                    "link":"./",
+                    "link":"/portfolio",
                     "dropdown":{},
                     "mega_dropdown":{}
                 },
@@ -26,7 +26,7 @@
                     "id":2.2,
                     "text":"Single portfolio",
                     "class": "drop",
-                    "link":"./",
+                    "link":"/Single-portfolio",
                     "dropdown":{},
                     "mega_dropdown":{}
                 }
@@ -37,13 +37,13 @@
             "id":"3",
             "text":"Blog",
             "class":"drop",
-            "link":"./",
+            "link":"/blog",
             "dropdown": [
                 {
                     "id":3.1,
                     "text":"blog 3 colum",
                     "class":"drop",
-                    "link":"./",
+                    "link":"/blog-3-colum",
                     "dropdown":{},
                     "mega_dropdown":{}
                 },
@@ -51,7 +51,7 @@
                     "id":3.2,
                     "text":"blog details",
                     "class":"drop",
-                    "link":"./",
+                    "link":"/blog-details",
                     "dropdown":{},
                     "mega_dropdown":{}
                 }
@@ -62,19 +62,19 @@
             "id":4,
             "text":"Shop",
             "class":"drop",
-            "link":"./",
+            "link":"/shop",
             "dropdown":[
                 {
                     "id":4.1,
                     "text":"shop layout",
                     "class":"drop",
-                    "link":"./",
+                    "link":"/shop-layout",
                     "dropdown":[
                         {
                             "id":4.3,
                             "text":"default shop",
                             "class":"drop",
-                            "link":"./",
+                            "link":"/default-shop",
                             "dropdown":{},
                             "mega_dropdown":{}
                         }
@@ -85,13 +85,13 @@
                     "id":4.2,
                     "text":"product details layout",
                     "class":"mega_title",
-                    "link":"./",
+                    "link":"/product-details-layout",
                     "dropdown":[
                         {
                             "id":3.1,
                             "text":"tab style 1",
                             "class":"mega_title",
-                            "link":"./",
+                            "link":"/tab-style 1",
                             "dropdown":{},
                             "mega_dropdown":{}
                         }
@@ -105,13 +105,13 @@
             "id":5,
             "text":"pages",
             "class":"drop",
-            "link":"./",
+            "link":"/pages",
             "dropdown":[
                 {
                     "id":5.1,
                     "text":"about",
                     "class":"",
-                    "link":"./",
+                    "link":"/about",
                     "dropdown":{},
                     "mega_dropdown":{}
                 },
@@ -119,13 +119,13 @@
                     "id":5.2,
                     "text":"trstimonials",
                     "class":"",
-                    "link":"./",
+                    "link":"/trstimonials",
                     "dropdown":[
                         {
                             "id":5.3,
                             "text":"customer review",
                             "class":"",
-                            "link":"./",
+                            "link":"/customer-review",
                             "dropdown":{},
                             "mega_dropdown":{}
                         }
@@ -136,7 +136,7 @@
                     "id":5.4,
                     "text":"shop",
                     "class":"",
-                    "link":"./",
+                    "link":"/shop",
                     "dropdown":{},
                     "mega_dropdown":{}
                 },
@@ -144,7 +144,7 @@
                     "id":5.5,
                     "text":"shop sidebar",
                     "class":"",
-                    "link":"./",
+                    "link":"/shop-sidebar",
                     "dropdown":{},
                     "mega_dropdown":{}
                 },
@@ -152,7 +152,7 @@
                     "id":5.6,
                     "text":"product details",
                     "class":"",
-                    "link":"./",
+                    "link":"/product-details",
                     "dropdown":{},
                     "mega_dropdown":{}
                 },
@@ -160,7 +160,7 @@
                     "id":5.7,
                     "text":"cart",
                     "class":"",
-                    "link":"./",
+                    "link":"/cart",
                     "dropdown":{},
                     "mega_dropdown":{}
                 },
@@ -168,7 +168,7 @@
                     "id":5.8,
                     "text":"wishlist",
                     "class":"",
-                    "link":"./",
+                    "link":"/wishlist",
                     "dropdown":{},
                     "mega_dropdown":{}
                 },
@@ -176,15 +176,15 @@
                     "id":5.9,
                     "text":"checkout",
                     "class":"",
-                    "link":"./",
+                    "link":"/checkout",
                     "dropdown":{},
                     "mega_dropdown":{}
                 },
                 {
-                    "id":5.10,
+                    "id":5.12,
                     "text":"team",
                     "class":"",
-                    "link":"./",
+                    "link":"/team",
                     "dropdown":{},
                     "mega_dropdown":{}
                 },
@@ -192,7 +192,7 @@
                     "id":5.11,
                     "text":"login & register",
                     "class":"",
-                    "link":"./",
+                    "link":"/login-&-register",
                     "dropdown":{},
                     "mega_dropdown":{}
                 }
@@ -203,7 +203,7 @@
             "id":6,
             "text":"contact",
             "class":"",
-            "link":"./",
+            "link":"/contact",
             "dropdown":{},
             "mega_dropdown":{}
         }

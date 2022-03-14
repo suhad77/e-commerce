@@ -2228,6 +2228,10 @@ select.select-color {
     height: 633px;
     width: 100%;
 }
+
+/* .ht__bradcaump__area{
+    background: rgba(0, 0, 0, 0) url(images/bg/2.jpg) no-repeat scroll center center / cover ;
+} */
 .contact__title {
     color: #666666;
     font-size: 20px;
