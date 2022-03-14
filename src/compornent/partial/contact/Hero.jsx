@@ -1,10 +1,11 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import bgcontact from '../../../images/bg/2.jpg'
 const Hero = () => {
   return (
     <div className="ht__bradcaump__area" 
     style={{background:"rgba(0, 0, 0, 0)",
-    backgroundImage:`url("../../../images/bg/2.jpg")`,
+    backgroundImage: `url( ${ bgcontact } )`,
     backgroundRepeat:"no-repeat",
     backgroundPosition: "center center",
     backgroundSize:"cover"
