@@ -98,7 +98,7 @@ const Footer = () => {
                                                     <div style= {{position:'absolute', left:'-5000px'}} aria-hidden="true"><input type="text" name="b_6bbb9b6f5827bd842d9640c82_05d85f18ef" tabIndex="-1" /></div>
                                                     <div className="clearfix subscribe__btn">
                                                     <input type="submit" value="Send" name="subscribe" id="mc-embedded-subscribe" className="bst__btn btn--white__color"/>
-                                                        {/* <button name="subscribe"  className="bst__btn btn--white__color"> <i class="bi bi-arrow-right"></i></button> */}
+                                                        
                                                      </div>
                                                 </div>
                                             </form>
