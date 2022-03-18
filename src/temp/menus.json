@@ -63,7 +63,8 @@
             "text":"Shop",
             "class":"drop",
             "link":"/shop",
-            "dropdown":[
+            "dropdown":{},
+            "mega_dropdown":[
                 {
                     "id":4.1,
                     "text":"shop layout",
@@ -88,7 +89,7 @@
                     "link":"/product-details-layout",
                     "dropdown":[
                         {
-                            "id":3.1,
+                            "id":4.11,
                             "text":"tab style 1",
                             "class":"mega_title",
                             "link":"/tab-style 1",
@@ -98,8 +99,7 @@
                     ],
                     "mega_dropdown":{}
                 }
-            ],
-            "mega_dropdown":{}
+            ]
         },
         {
             "id":5,
